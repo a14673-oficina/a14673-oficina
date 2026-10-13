@@ -1,143 +1,83 @@
 <div align="center">
 
-<!-- HEADER EXECUTIVO MINIMALISTA -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,80:141414,100:E30613&height=110&section=header&text=DANIEL%20SOUSA&fontSize=38&fontColor=ffffff&fontAlign=15&fontAlignY=48&desc=SOFTWARE%20DEVELOPMENT%20%E2%80%A2%20SYSTEMS%20%E2%80%A2%20INFRASTRUCTURE&descSize=13&descAlign=23&descAlignY=74" width="100%" alt="Daniel Sousa" />
+<!-- HEADER CP VERDE E AMARELO -->
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0D0D0D,55:007A33,100:FFC425&height=130&section=header&text=DANIEL%20SOUSA&fontSize=46&fontColor=ffffff&fontAlign=20&fontAlignY=50&desc=SOFTWARE%20%E2%80%A2%20HARDWARE%20%E2%80%A2%20CUSTOM%20ROMS&descSize=14&descAlign=21&descAlignY=78" width="100%" alt="Daniel Sousa" />
 
-<!-- PAINEL DIGITAL DE APRESENTAÇÃO -->
+<!-- ANIMAÇÃO DE TEXTO (AMARELO CP) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=E30613&background=0A0A0A&center=false&vCenter=true&repeat=true&width=880&height=38&lines=%3E+Estudante+de+Gest%C3%A3o+e+Programa%C3%A7%C3%A3o+de+Sistemas+Inform%C3%A1ticos+%28GPSI%29;%3E+Desenvolvimento+Web%2C+Arquitetura+de+Software+e+Bases+de+Dados;%3E+Administra%C3%A7%C3%A3o+de+Sistemas%2C+Redes%2C+Hardware+e+Ambientes+Mobile" alt="Apresentação" />
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=19&duration=2500&pause=900&color=FFC425&center=true&vCenter=true&repeat=true&width=800&height=40&lines=Estudante+de+GPSI+%40+OFICINA;O+que+fa%C3%A7o+de+melhor%3A+C%C3%B3digo%2C+Sistemas+e+Hardware;Viciado+em+Ferrovia%2C+Simuladores+e+Tecnologia!" alt="Typing SVG" />
 </a>
+
+<!-- IDIOMAS -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Portugu%C3%AAs-Nativo-007A33?style=for-the-badge&labelColor=141414&logoColor=FFC425" />
+  <img src="https://img.shields.io/badge/Ingl%C3%AAs-B%C3%A1sico-007A33?style=for-the-badge&labelColor=141414&logoColor=FFC425" />
+  <img src="https://img.shields.io/badge/Franc%C3%AAs-B%C3%A1sico-007A33?style=for-the-badge&labelColor=141414&logoColor=FFC425" />
+</p>
 
 </div>
 
+<br/>
+
+### <img src="https://img.icons8.com/ios-filled/50/FFC425/briefcase.png" width="24" align="top" /> Experiência Profissional
+
+- <img src="https://img.icons8.com/ios-filled/50/007A33/company.png" width="18" align="top" /> **Nexsys (Vila Nova de Famalicão)** — *Estágio Curricular*
+  Tive a oportunidade de pôr a mão na massa num ambiente real de trabalho, onde assumi várias responsabilidades técnicas:
+  - <img src="https://img.icons8.com/ios-filled/50/007A33/maintenance.png" width="18" align="top" /> Manutenção de **Hardware** e configuração de **Servidores**.
+  - <img src="https://img.icons8.com/ios-filled/50/007A33/code.png" width="18" align="top" /> Desenvolvimento Web completo (**Front-end** e **Back-end**).
+  - <img src="https://img.icons8.com/ios-filled/50/007A33/headset.png" width="18" align="top" /> Suporte técnico e **Helpdesk**.
+
+---
+
+### <img src="https://img.icons8.com/ios-filled/50/FFC425/motherboard.png" width="24" align="top" /> O que faço de melhor: Software & Hardware
+
+O meu foco é trabalhar naquilo que domino e que realmente me motiva no dia a dia:
+
+- <img src="https://img.icons8.com/ios-filled/50/007A33/source-code.png" width="18" align="top" /> **Desenvolvimento Web:** Escrever código limpo, estruturar bases de dados relacionais e desenhar interfaces.
+- <img src="https://img.icons8.com/ios-filled/50/007A33/drill.png" width="18" align="top" /> **Hardware à medida:** Montagem, manutenção e otimização de computadores (sempre a testar os limites, especialmente com AMD/Ryzen).
+
+**A Minha Stack Principal:**  
+As ferramentas e linguagens onde me sinto em casa a programar:
+<br/>
+<img src="https://skillicons.dev/icons?i=php,html,css,python,mysql,vscode&theme=dark" />
+
+---
+
+### <img src="https://img.icons8.com/ios-filled/50/FFC425/smartphone.png" width="24" align="top" /> O Meu Lab: Sistemas & Modding
+
+A minha bancada de testes para explorar os sistemas mobile ao mais baixo nível. Adoro mexer no "cérebro" dos telemóveis e ir muito além do que vem de fábrica.
+
+- <img src="https://img.icons8.com/ios-filled/50/007A33/unlock.png" width="18" align="top" /> Desbloqueio de *bootloaders*.
+- <img src="https://img.icons8.com/ios-filled/50/007A33/console.png" width="18" align="top" /> Uso intensivo de linha de comandos (**fastboot** / **ADB**).
+- <img src="https://img.icons8.com/ios-filled/50/007A33/processor.png" width="18" align="top" /> Gosto de fazer *root* e testar os limites do hardware com **Custom ROMs** e **HarmonyOS**.
+
+<br/>
 <p align="left">
-  <img src="https://img.shields.io/badge/LOCALIZA%C3%87%C3%83O-VILA_NOVA_DE_FAMALIC%C3%83O%2C_PT-141414?style=flat-square&labelColor=E30613" />
-  <img src="https://img.shields.io/badge/INSTITUI%C3%87%C3%83O-OFICINA_(ESCOLA_PROFISSIONAL)-141414?style=flat-square&labelColor=E30613" />
-  <img src="https://img.shields.io/badge/IDIOMAS-PT_(C2)_%7C_FR_(B2)_%7C_EN_(B1/B2)-141414?style=flat-square&labelColor=E30613" />
+  <img src="https://img.shields.io/badge/HarmonyOS_NEXT-007A33?style=for-the-badge&logo=harmonyos&logoColor=white&labelColor=141414" /> 
+  <img src="https://img.shields.io/badge/LineageOS-007A33?style=for-the-badge&logo=lineageos&logoColor=white&labelColor=141414" /> 
+  <img src="https://img.shields.io/badge/PixelOS-007A33?style=for-the-badge&logo=google&logoColor=white&labelColor=141414" /> 
+  <img src="https://img.shields.io/badge/crDroid-007A33?style=for-the-badge&logo=android&logoColor=white&labelColor=141414" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/ADB_&_Fastboot-141414?style=for-the-badge&logo=gnubash&logoColor=FFC425" /> 
+  <img src="https://img.shields.io/badge/Magisk_Root-141414?style=for-the-badge&logo=magisk&logoColor=FFC425" /> 
+  <img src="https://img.shields.io/badge/TWRP_/_OrangeFox-141414?style=for-the-badge&logo=twrp&logoColor=FFC425" />
 </p>
 
 ---
 
-### ▤ PAINEL DE OPERAÇÕES // ÁREAS DE ATUAÇÃO E PROJETOS
+### <img src="https://img.icons8.com/ios-filled/50/FFC425/train.png" width="24" align="top" /> Fora do Código: Ferrovia & Simuladores
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th align="center" width="8%">ID</th>
-      <th align="left" width="27%">ÁREA / PROJETO</th>
-      <th align="left" width="47%">ESPECIFICAÇÕES TÉCNICAS</th>
-      <th align="center" width="18%">ESTADO</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center"><code>01</code></td>
-      <td><b>Desenvolvimento de Software & Web</b></td>
-      <td>Programação orientada a objetos (PHP, C++), lógica em C/Python e interfaces modernas (JS, HTML5, CSS3).</td>
-      <td align="center"><img src="https://img.shields.io/badge/ATIVO-E30613?style=flat-square&labelColor=0A0A0A" /></td>
-    </tr>
-    <tr>
-      <td align="center"><code>02</code></td>
-      <td><b>Plataforma de Gestão de Transportes (PAP)</b></td>
-      <td>Conceção e arquitetura de um sistema web focado na gestão operacional de redes de transporte público.</td>
-      <td align="center"><img src="https://img.shields.io/badge/EM_ARQUITETURA-E30613?style=flat-square&labelColor=0A0A0A" /></td>
-    </tr>
-    <tr>
-      <td align="center"><code>03</code></td>
-      <td><b>Sistemas Operativos & Mobile</b></td>
-      <td>Configuração avançada de ambientes Linux/Windows, <i>bootloaders</i>, <i>fastboot</i>, AOSP (LineageOS, PixelOS, crDroid) e HarmonyOS.</td>
-      <td align="center"><img src="https://img.shields.io/badge/CONT%C3%8DNUO-141414?style=flat-square&labelColor=0A0A0A" /></td>
-    </tr>
-    <tr>
-      <td align="center"><code>04</code></td>
-      <td><b>Infraestrutura, Hardware & Redes</b></td>
-      <td>Diagnóstico, montagem e manutenção de equipamentos informáticos, virtualização e estruturação de redes.</td>
-      <td align="center"><img src="https://img.shields.io/badge/CONT%C3%8DNUO-141414?style=flat-square&labelColor=0A0A0A" /></td>
-    </tr>
-  </tbody>
-</table>
+Quando não estou de volta dos PCs, a programar ou a *flashar* ROMs, o meu grande vício é a **mobilidade e infraestrutura ferroviária**. 
+
+<img src="https://img.icons8.com/ios-filled/50/007A33/railway.png" width="18" align="top" /> Sou fascinado por comboios (especialmente tudo o que envolve as operações, material circulante e infraestruturas da **Comboios de Portugal**) e passo horas a gerir rotas e a conduzir em simuladores como o **Train Sim World** e o **Euro Truck Simulator**. 
 
 ---
 
-### ▤ ARQUITETURA TECNOLÓGICA // TECH STACK
+### <img src="https://img.icons8.com/ios-filled/50/FFC425/positive-dynamic.png" width="24" align="top" /> O Meu Desempenho
 
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <h4 align="left">01 // Linguagens & Frameworks</h4>
-      <p align="left">
-        <img src="https://img.shields.io/badge/PHP-141414?style=flat-square&logo=php&logoColor=E30613" />
-        <img src="https://img.shields.io/badge/JavaScript-141414?style=flat-square&logo=javascript&logoColor=E30613" />
-        <img src="https://img.shields.io/badge/TypeScript-141414?style=flat-square&logo=typescript&logoColor=E30613" />
-        <img src="https://img.shields.io/badge/Python-141414?style=flat-square&logo=python&logoColor=E30613" />
-        <img src="https://img.shields.io/badge/C-141414?style=flat-square&logo=c&logoColor=E30613" />
-        <img src="https://img.shields.io/badge/C++-141414?style=flat-square&logo=cplusplus&logoColor=E30613" />
-        <img src="https://img.shields.io/badge/HTML5-141414?style=flat-square&logo=html5&logoColor=E30613" />
-        <img src="https://img.shields.io/badge/CSS3-141414?style=flat-square&logo=css3&logoColor=E30613" />
-        <img src="https://img.shields.io/badge/React-141414?style=flat-square&logo=react&logoColor=E30613" />
-        <img src="https://img.shields.io/badge/Node.js-141414?style=flat-square&logo=nodedotjs&logoColor=E30613" />
-        <img src="https://img.shields.io/badge/Flask-141414?style=flat-square&logo=flask&logoColor=E30613" />
-        <img src="https://img.shields.io/badge/Bootstrap-141414?style=flat-square&logo=bootstrap&logoColor=E30613" />
-        <img src="https://img.shields.io/badge/WordPress-141414?style=flat-square&logo=wordpress&logoColor=E30613" />
-        <img src="https://img.shields.io/badge/Portugol-141414?style=flat-square&logo=probot&logoColor=E30613" />
-      </p>
-    </td>
-    <td width="34%" valign="top">
-      <h4 align="left">02 // Dados, DevOps & Design</h4>
-      <p align="left">
-        <img src="https://img.shields.io/badge/MySQL-141414?style=flat-square&logo=mysql&logoColor=E30613" />
-        <img src="https://img.shields.io/badge/PostgreSQL-141414?style=flat-square&logo=postgresql&logoColor=E30613" />
-        <img src="https://img.shields.io/badge/SQL_Server-141414?style=flat-square&logo=microsoftsqlserver&logoColor=E30613" />
-        <img src="https://img.shields.io/badge/Supabase-141414?style=flat-square&logo=supabase&logoColor=E30613" />
-        <img src="https://img.shields.io/badge/Git-141414?style=flat-square&logo=git&logoColor=E30613" />
-        <img src="https://img.shields.io/badge/GitHub-141414?style=flat-square&logo=github&logoColor=E30613" />
-        <img src="https://img.shields.io/badge/VS_Code-141414?style=flat-square&logo=visualstudiocode&logoColor=E30613" />
-        <img src="https://img.shields.io/badge/Visual_Studio-141414?style=flat-square&logo=visualstudio&logoColor=E30613" />
-        <img src="https://img.shields.io/badge/XAMPP-141414?style=flat-square&logo=xampp&logoColor=E30613" />
-        <img src="https://img.shields.io/badge/phpMyAdmin-141414?style=flat-square&logo=phpmyadmin&logoColor=E30613" />
-        <img src="https://img.shields.io/badge/Figma-141414?style=flat-square&logo=figma&logoColor=E30613" />
-        <img src="https://img.shields.io/badge/Blender-141414?style=flat-square&logo=blender&logoColor=E30613" />
-        <img src="https://img.shields.io/badge/3ds_Max-141414?style=flat-square&logo=autodesk&logoColor=E30613" />
-        <img src="https://img.shields.io/badge/Obsidian-141414?style=flat-square&logo=obsidian&logoColor=E30613" />
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h4 align="left">03 // Sistemas, Redes & Firmware</h4>
-      <p align="left">
-        <img src="https://img.shields.io/badge/Windows_10/11-141414?style=flat-square&logo=windows10&logoColor=E30613" />
-        <img src="https://img.shields.io/badge/Linux-141414?style=flat-square&logo=linux&logoColor=E30613" />
-        <img src="https://img.shields.io/badge/VirtualBox-141414?style=flat-square&logo=virtualbox&logoColor=E30613" />
-        <img src="https://img.shields.io/badge/Packet_Tracer-141414?style=flat-square&logo=cisco&logoColor=E30613" />
-        <img src="https://img.shields.io/badge/HarmonyOS_NEXT-141414?style=flat-square&logo=harmonyos&logoColor=E30613" />
-        <img src="https://img.shields.io/badge/LineageOS-141414?style=flat-square&logo=lineageos&logoColor=E30613" />
-        <img src="https://img.shields.io/badge/PixelOS-141414?style=flat-square&logo=google&logoColor=E30613" />
-        <img src="https://img.shields.io/badge/crDroid-141414?style=flat-square&logo=android&logoColor=E30613" />
-        <img src="https://img.shields.io/badge/Evolution_X-141414?style=flat-square&logo=android&logoColor=E30613" />
-        <img src="https://img.shields.io/badge/ADB_&_Fastboot-141414?style=flat-square&logo=gnubash&logoColor=E30613" />
-        <img src="https://img.shields.io/badge/Magisk-141414?style=flat-square&logo=magisk&logoColor=E30613" />
-        <img src="https://img.shields.io/badge/Custom_Recovery-141414?style=flat-square&logo=twrp&logoColor=E30613" />
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=a14673-oficina&show_icons=true&hide_border=false&border_color=007A33&border_radius=10&bg_color=0D0D0D&title_color=FFC425&text_color=FFFFFF&icon_color=007A33" height="160" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a14673-oficina&layout=compact&hide_border=false&border_color=007A33&border_radius=10&bg_color=0D0D0D&title_color=FFC425&text_color=FFFFFF" height="160" alt="Top Languages" />
 
-### ▤ MÉTRICAS E REPOSITÓRIOS
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=a14673-oficina&show_icons=true&hide_border=true&border_radius=0&bg_color=0D0D0D&title_color=E30613&text_color=E0E0E0&icon_color=E30613" width="100%" alt="Estatísticas do GitHub" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a14673-oficina&layout=compact&hide_border=true&border_radius=0&bg_color=0D0D0D&title_color=E30613&text_color=E0E0E0" width="100%" alt="Linguagens mais utilizadas" />
-    </td>
-  </tr>
-</table>
-
-<div align="right">
-  <a href="https://github.com/a14673-oficina?tab=repositories">
-    <img src="https://img.shields.io/badge/CONSULTAR_REPOSIT%C3%93RIOS_DE_PROJETOS_%E2%86%92-E30613?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projetos" />
-  </a>
-</div>
+<br/><br/>
